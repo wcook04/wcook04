@@ -1,13 +1,17 @@
 # Will Cook
 
-I use AI to do maths research and build software, and to make that work easier for other people to understand.
+I do mathematics research and build software with AI agents. I also build ways to inspect what the agents produce.
 
-**[Start here: my projects, papers and videos](https://wcook04.github.io/)**
+**[Projects, papers and videos](https://wcook04.github.io/)**
 
-My home page lists the websites, videos and source code for each project.
+[Mathematics and Lean](https://wcook04.github.io/#group-mathematics) · [Tools for coding agents](https://wcook04.github.io/#group-agents) · [Verification and evaluation](https://wcook04.github.io/#group-verification)
 
-[![Will Cook's home page, with the introduction video and project links](https://raw.githubusercontent.com/wcook04/wcook04.github.io/main/assets/sites/home-light-1440.webp)](https://wcook04.github.io/)
+[![Will Cook’s homepage in dark mode, with the introduction video and three routes into the projects](assets/homepage-dark.webp)](https://wcook04.github.io/)
 
 [Watch the introduction](https://www.youtube.com/watch?v=MBmVMMogXTA) · [YouTube channel](https://www.youtube.com/@willcook2004)
 
-The pinned repositories below are selected projects. Repositories marked “Forked from” are copies used to contribute to other people's projects.
+I’m looking for a job, internship, fellowship or research collaboration. [Email me](mailto:williamwkcook@gmail.com).
+
+<!-- Source map: README.md owns the profile copy; assets/homepage-dark.webp is a
+1440 × 790 capture of wcook04.github.io at 323e9f8, made on 6 November 2026.
+Refresh the preview from the real homepage after material layout changes. -->
